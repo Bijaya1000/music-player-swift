@@ -16,7 +16,7 @@ A simple and clean **iOS Music Player app** built with **SwiftUI** and **AVFound
 
 | Home View |
 |-----------|
-| ![Music Player Screenshot](#) *(Add screenshot here)* |
+| ![Music Player Screenshot](#) |
 
 ---
 
